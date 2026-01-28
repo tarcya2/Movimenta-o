@@ -45,4 +45,4 @@ Este projeto está sob a licença **MIT**, permitindo uso, modificação e distr
 
 ## 👤 Autor
 
-**Gabriel Tarcia**
+ **Gabriel Tarcia** 
